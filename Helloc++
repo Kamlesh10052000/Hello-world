@@ -1,5 +1,0 @@
-#inclde<stdio.h>
-int main()
-{
-    cout<<"Hello";
-}
